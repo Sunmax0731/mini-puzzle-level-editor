@@ -1,0 +1,13 @@
+{
+  "product": "mini-puzzle-level-editor",
+  "title": "小型パズル・レベルエディタ",
+  "domain": "Game",
+  "ideaNo": 1,
+  "platformType": "browser-web",
+  "expectedPublicTarget": "GitHub Pages / BOOTH",
+  "browser": {
+    "evidence": "dist/web-smoke-result.json"
+  },
+  "android": null,
+  "evidence": "dist/platform-runtime-gate-result.json"
+}
