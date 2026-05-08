@@ -1,0 +1,38 @@
+{
+  "product": "mini-puzzle-level-editor",
+  "sourceRank": {
+    "rank": 42,
+    "tier": "P2",
+    "score": 58,
+    "domain": "Game",
+    "ideaNo": 1,
+    "ideaName": "小型パズル・レベルエディタ",
+    "repositoryName": "mini-puzzle-level-editor",
+    "publicTarget": "GitHub Pages / BOOTH",
+    "priorityReason": "元100件下位候補。レベルエディタ同梱で小さく遊べるが、問題追加の運用が必要。"
+  },
+  "initialRepositoryReadme": "not-found-at-start",
+  "exactCreatedIdeaPath": "D:\\AI\\Game\\created_idea_001_mini-puzzle-level-editor",
+  "exactZipPath": "D:\\AI\\Game\\created_idea_001_mini-puzzle-level-editor\\idea_001_mini-puzzle-level-editor.zip",
+  "exactCreatedIdeaPathExists": true,
+  "exactZipExists": true,
+  "fallbackSearchUsed": false,
+  "fallbackSearchResults": [],
+  "zipEntriesChecked": [
+    "metadata.json",
+    "START_PROMPT.md",
+    "README.md",
+    "01_REQUIREMENTS.md",
+    "03_DESIGN.md",
+    "04_IMPLEMENTATION_PLAN.md",
+    "05_TEST_PLAN.md",
+    "06_RELEASE_CHECKLIST.md",
+    "02_SPECIFICATION.md"
+  ],
+  "expectedZipEntriesPresent": true,
+  "metadataRepositoryName": "mini-puzzle-level-editor",
+  "metadataIdea": "小型パズル・レベルエディタ",
+  "metadataMatchesRepository": true,
+  "markdownCopyPolicy": "Formal docs are regenerated in normal Japanese from NON_PICKUP row, metadata, and domain docs. ZIP markdown is checked but not copied verbatim.",
+  "mojibakePolicy": "Generated docs are checked by code point based scanner."
+}
